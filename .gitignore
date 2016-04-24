@@ -6,6 +6,7 @@
 /squares.txt
 /numbers_up_to_*.txt
 /numbers.txt
+/*.csv
 
 # IPython Notebook files
 /*.ipynb
